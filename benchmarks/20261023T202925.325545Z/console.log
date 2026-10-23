@@ -1,0 +1,136 @@
+ros2-1  | Receiver matched; results: /results/20261023T202925.325545Z
+ros2-1  | Start bridge repeat=1 target=10 Hz (0=unthrottled)
+ros2-1  |   sent=10.0 Hz received=10.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=1 target=25 Hz (0=unthrottled)
+ros2-1  |   sent=25.0 Hz received=25.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=1 target=50 Hz (0=unthrottled)
+ros2-1  |   sent=50.0 Hz received=50.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=1 target=75 Hz (0=unthrottled)
+ros2-1  |   sent=75.0 Hz received=75.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=1 target=100 Hz (0=unthrottled)
+ros2-1  |   sent=93.7 Hz received=93.6 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=1 target=150 Hz (0=unthrottled)
+ros2-1  |   sent=94.0 Hz received=93.9 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=1 target=200 Hz (0=unthrottled)
+ros2-1  |   sent=93.4 Hz received=93.3 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=1 target=400 Hz (0=unthrottled)
+ros2-1  |   sent=93.7 Hz received=93.7 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=1 target=800 Hz (0=unthrottled)
+ros2-1  |   sent=93.8 Hz received=93.8 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=1 target=1600 Hz (0=unthrottled)
+ros2-1  |   sent=93.9 Hz received=93.8 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=1 target=0 Hz (0=unthrottled)
+ros2-1  |   sent=94.0 Hz received=93.9 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=2 target=10 Hz (0=unthrottled)
+ros2-1  |   sent=10.0 Hz received=10.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=2 target=25 Hz (0=unthrottled)
+ros2-1  |   sent=25.0 Hz received=25.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=2 target=50 Hz (0=unthrottled)
+ros2-1  |   sent=50.0 Hz received=50.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=2 target=75 Hz (0=unthrottled)
+ros2-1  |   sent=75.0 Hz received=75.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=2 target=100 Hz (0=unthrottled)
+ros2-1  |   sent=93.8 Hz received=93.7 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=2 target=150 Hz (0=unthrottled)
+ros2-1  |   sent=93.7 Hz received=93.6 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=2 target=200 Hz (0=unthrottled)
+ros2-1  |   sent=93.7 Hz received=93.6 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=2 target=400 Hz (0=unthrottled)
+ros2-1  |   sent=93.1 Hz received=93.0 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=2 target=800 Hz (0=unthrottled)
+ros2-1  |   sent=93.3 Hz received=93.2 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=2 target=1600 Hz (0=unthrottled)
+ros2-1  |   sent=93.3 Hz received=93.3 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=2 target=0 Hz (0=unthrottled)
+ros2-1  |   sent=93.6 Hz received=93.5 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=3 target=10 Hz (0=unthrottled)
+ros2-1  |   sent=10.0 Hz received=10.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=3 target=25 Hz (0=unthrottled)
+ros2-1  |   sent=25.0 Hz received=25.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=3 target=50 Hz (0=unthrottled)
+ros2-1  |   sent=50.0 Hz received=50.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=3 target=75 Hz (0=unthrottled)
+ros2-1  |   sent=75.0 Hz received=74.9 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start bridge repeat=3 target=100 Hz (0=unthrottled)
+ros2-1  |   sent=93.3 Hz received=93.3 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=3 target=150 Hz (0=unthrottled)
+ros2-1  |   sent=93.8 Hz received=93.7 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=3 target=200 Hz (0=unthrottled)
+ros2-1  |   sent=93.3 Hz received=93.2 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=3 target=400 Hz (0=unthrottled)
+ros2-1  |   sent=93.2 Hz received=93.1 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=3 target=800 Hz (0=unthrottled)
+ros2-1  |   sent=93.1 Hz received=93.0 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=3 target=1600 Hz (0=unthrottled)
+ros2-1  |   sent=93.8 Hz received=93.7 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start bridge repeat=3 target=0 Hz (0=unthrottled)
+ros2-1  |   sent=93.8 Hz received=93.7 Hz loss=0.00% errors=0 pass=False
+ros2-1  | Start ros-only repeat=1 target=10 Hz (0=unthrottled)
+ros2-1  |   sent=10.0 Hz received=10.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=1 target=25 Hz (0=unthrottled)
+ros2-1  |   sent=25.0 Hz received=25.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=1 target=50 Hz (0=unthrottled)
+ros2-1  |   sent=50.0 Hz received=50.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=1 target=75 Hz (0=unthrottled)
+ros2-1  |   sent=75.0 Hz received=75.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=1 target=100 Hz (0=unthrottled)
+ros2-1  |   sent=100.0 Hz received=100.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=1 target=150 Hz (0=unthrottled)
+ros2-1  |   sent=150.0 Hz received=150.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=1 target=200 Hz (0=unthrottled)
+ros2-1  |   sent=200.0 Hz received=200.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=1 target=400 Hz (0=unthrottled)
+ros2-1  |   sent=400.0 Hz received=399.9 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=1 target=800 Hz (0=unthrottled)
+ros2-1  |   sent=800.0 Hz received=487.7 Hz loss=37.79% errors=0 pass=False
+ros2-1  | Start ros-only repeat=1 target=1600 Hz (0=unthrottled)
+ros2-1  |   sent=1599.8 Hz received=458.7 Hz loss=70.70% errors=0 pass=False
+ros2-1  | Start ros-only repeat=1 target=0 Hz (0=unthrottled)
+ros2-1  |   sent=3097.2 Hz received=438.0 Hz loss=85.54% errors=0 pass=False
+ros2-1  | Start ros-only repeat=2 target=10 Hz (0=unthrottled)
+ros2-1  |   sent=10.0 Hz received=10.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=2 target=25 Hz (0=unthrottled)
+ros2-1  |   sent=25.0 Hz received=25.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=2 target=50 Hz (0=unthrottled)
+ros2-1  |   sent=50.0 Hz received=50.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=2 target=75 Hz (0=unthrottled)
+ros2-1  |   sent=75.0 Hz received=75.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=2 target=100 Hz (0=unthrottled)
+ros2-1  |   sent=100.0 Hz received=100.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=2 target=150 Hz (0=unthrottled)
+ros2-1  |   sent=150.0 Hz received=150.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=2 target=200 Hz (0=unthrottled)
+ros2-1  |   sent=200.0 Hz received=200.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=2 target=400 Hz (0=unthrottled)
+ros2-1  |   sent=400.0 Hz received=400.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=2 target=800 Hz (0=unthrottled)
+ros2-1  |   sent=800.0 Hz received=481.7 Hz loss=38.54% errors=0 pass=False
+ros2-1  | Start ros-only repeat=2 target=1600 Hz (0=unthrottled)
+ros2-1  |   sent=1599.9 Hz received=457.6 Hz loss=70.77% errors=0 pass=False
+ros2-1  | Start ros-only repeat=2 target=0 Hz (0=unthrottled)
+ros2-1  |   sent=3085.6 Hz received=434.2 Hz loss=85.60% errors=0 pass=False
+ros2-1  | Start ros-only repeat=3 target=10 Hz (0=unthrottled)
+ros2-1  |   sent=10.0 Hz received=10.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=3 target=25 Hz (0=unthrottled)
+ros2-1  |   sent=25.0 Hz received=25.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=3 target=50 Hz (0=unthrottled)
+ros2-1  |   sent=50.0 Hz received=50.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=3 target=75 Hz (0=unthrottled)
+ros2-1  |   sent=75.0 Hz received=75.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=3 target=100 Hz (0=unthrottled)
+ros2-1  |   sent=100.0 Hz received=100.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=3 target=150 Hz (0=unthrottled)
+ros2-1  |   sent=150.0 Hz received=150.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=3 target=200 Hz (0=unthrottled)
+ros2-1  |   sent=200.0 Hz received=200.0 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=3 target=400 Hz (0=unthrottled)
+ros2-1  |   sent=400.0 Hz received=399.9 Hz loss=0.00% errors=0 pass=True
+ros2-1  | Start ros-only repeat=3 target=800 Hz (0=unthrottled)
+ros2-1  |   sent=800.0 Hz received=486.4 Hz loss=37.95% errors=0 pass=False
+ros2-1  | Start ros-only repeat=3 target=1600 Hz (0=unthrottled)
+ros2-1  |   sent=1599.7 Hz received=455.7 Hz loss=70.89% errors=0 pass=False
+ros2-1  | Start ros-only repeat=3 target=0 Hz (0=unthrottled)
+ros2-1  |   sent=3083.1 Hz received=434.1 Hz loss=85.59% errors=0 pass=False
+ros2-1  | Completed. Best sustainable tested target Hz (all repeats must pass): {'bridge': 75.0, 'ros-only': 400.0}
+ros2-1  | Unthrottled rows show observed saturation; they do not earn a target-rate pass.
+ros2-1 exited with code 0

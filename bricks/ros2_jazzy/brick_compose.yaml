@@ -1,0 +1,17 @@
+services:
+  ros2:
+    build:
+      context: .
+    network_mode: host
+    command: ["/bin/bash", "-c", "source /opt/ros/jazzy/setup.bash && exec python3 -u /app/benchmark.py"]
+    volumes:
+      - /var/run/arduino-router.sock:/var/run/arduino-router.sock
+      - ./app:/app:ro
+      - ../../results:/results
+    environment:
+      ROS_DOMAIN_ID: "0"
+      PYTHONUNBUFFERED: "1"
+      PYTHONDONTWRITEBYTECODE: "1"
+    # A completed benchmark must stay completed; Deploy/Run starts another run.
+    restart: "no"
+    stop_grace_period: 10s

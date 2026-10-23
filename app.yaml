@@ -1,0 +1,6 @@
+name: UNO_Q_ROS2_SPEED_TEST
+description: "Sensor-free BMI088-style RouterBridge and ROS 2 throughput benchmark"
+ports: []
+bricks:
+- ros2_jazzy: {}
+icon: ⚡

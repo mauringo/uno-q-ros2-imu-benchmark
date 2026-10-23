@@ -1,0 +1,256 @@
+{
+  "run_id": "20261023T202925.325545Z",
+  "provenance": "Parsed from user-supplied console log; not the original on-board summary.json or stages.csv.",
+  "raw_log_sha256": "893c23786a8845192f3ba62f9f9f26e5ebb9c509c3b87ce76886d75713dfe257",
+  "precision": "Console-rounded Hz and percentages; exact counts, RPC timing and configuration not present.",
+  "completed_stages": 66,
+  "errors": 0,
+  "best_sustainable_tested_target_hz": {
+    "bridge": 75,
+    "ros-only": 400
+  },
+  "groups": [
+    {
+      "mode": "bridge",
+      "target_hz": 0.0,
+      "repeats": 3,
+      "received_hz_mean": 93.7,
+      "received_hz_min": 93.5,
+      "received_hz_max": 93.9,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": false
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 10.0,
+      "repeats": 3,
+      "received_hz_mean": 10.0,
+      "received_hz_min": 10.0,
+      "received_hz_max": 10.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 25.0,
+      "repeats": 3,
+      "received_hz_mean": 25.0,
+      "received_hz_min": 25.0,
+      "received_hz_max": 25.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 50.0,
+      "repeats": 3,
+      "received_hz_mean": 50.0,
+      "received_hz_min": 50.0,
+      "received_hz_max": 50.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 75.0,
+      "repeats": 3,
+      "received_hz_mean": 74.96666666666667,
+      "received_hz_min": 74.9,
+      "received_hz_max": 75.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 100.0,
+      "repeats": 3,
+      "received_hz_mean": 93.53333333333333,
+      "received_hz_min": 93.3,
+      "received_hz_max": 93.7,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": false
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 150.0,
+      "repeats": 3,
+      "received_hz_mean": 93.73333333333333,
+      "received_hz_min": 93.6,
+      "received_hz_max": 93.9,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": false
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 200.0,
+      "repeats": 3,
+      "received_hz_mean": 93.36666666666666,
+      "received_hz_min": 93.2,
+      "received_hz_max": 93.6,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": false
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 400.0,
+      "repeats": 3,
+      "received_hz_mean": 93.26666666666667,
+      "received_hz_min": 93.0,
+      "received_hz_max": 93.7,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": false
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 800.0,
+      "repeats": 3,
+      "received_hz_mean": 93.33333333333333,
+      "received_hz_min": 93.0,
+      "received_hz_max": 93.8,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": false
+    },
+    {
+      "mode": "bridge",
+      "target_hz": 1600.0,
+      "repeats": 3,
+      "received_hz_mean": 93.6,
+      "received_hz_min": 93.3,
+      "received_hz_max": 93.8,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": false
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 0.0,
+      "repeats": 3,
+      "received_hz_mean": 435.43333333333334,
+      "received_hz_min": 434.1,
+      "received_hz_max": 438.0,
+      "loss_percent_min": 85.54,
+      "loss_percent_max": 85.6,
+      "all_passed": false
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 10.0,
+      "repeats": 3,
+      "received_hz_mean": 10.0,
+      "received_hz_min": 10.0,
+      "received_hz_max": 10.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 25.0,
+      "repeats": 3,
+      "received_hz_mean": 25.0,
+      "received_hz_min": 25.0,
+      "received_hz_max": 25.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 50.0,
+      "repeats": 3,
+      "received_hz_mean": 50.0,
+      "received_hz_min": 50.0,
+      "received_hz_max": 50.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 75.0,
+      "repeats": 3,
+      "received_hz_mean": 75.0,
+      "received_hz_min": 75.0,
+      "received_hz_max": 75.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 100.0,
+      "repeats": 3,
+      "received_hz_mean": 100.0,
+      "received_hz_min": 100.0,
+      "received_hz_max": 100.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 150.0,
+      "repeats": 3,
+      "received_hz_mean": 150.0,
+      "received_hz_min": 150.0,
+      "received_hz_max": 150.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 200.0,
+      "repeats": 3,
+      "received_hz_mean": 200.0,
+      "received_hz_min": 200.0,
+      "received_hz_max": 200.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 400.0,
+      "repeats": 3,
+      "received_hz_mean": 399.93333333333334,
+      "received_hz_min": 399.9,
+      "received_hz_max": 400.0,
+      "loss_percent_min": 0.0,
+      "loss_percent_max": 0.0,
+      "all_passed": true
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 800.0,
+      "repeats": 3,
+      "received_hz_mean": 485.26666666666665,
+      "received_hz_min": 481.7,
+      "received_hz_max": 487.7,
+      "loss_percent_min": 37.79,
+      "loss_percent_max": 38.54,
+      "all_passed": false
+    },
+    {
+      "mode": "ros-only",
+      "target_hz": 1600.0,
+      "repeats": 3,
+      "received_hz_mean": 457.3333333333333,
+      "received_hz_min": 455.7,
+      "received_hz_max": 458.7,
+      "loss_percent_min": 70.7,
+      "loss_percent_max": 70.89,
+      "all_passed": false
+    }
+  ]
+}
